@@ -8,3 +8,13 @@ C:\CharpProjects\RPG\Main\obj\Debug\Main.exe
 C:\CharpProjects\RPG\Main\obj\Debug\Main.pdb
 C:\CharpProjects\RPG\Main\obj\Debug\Main.Ngame.resources
 C:\CharpProjects\RPG\Main\obj\Debug\Main.AtributeMenu.resources
+C:\CharpProjects\Git\trabalhoAED1\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\CharpProjects\Git\trabalhoAED1\Main\obj\Debug\Main.AtributeMenu.resources
+C:\CharpProjects\Git\trabalhoAED1\Main\obj\Debug\Main.MainForm.resources
+C:\CharpProjects\Git\trabalhoAED1\Main\obj\Debug\Main.Ngame.resources
+C:\CharpProjects\Git\trabalhoAED1\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\CharpProjects\Git\trabalhoAED1\Main\obj\Debug\Main.exe
+C:\CharpProjects\Git\trabalhoAED1\Main\bin\Debug\Main.exe.config
+C:\CharpProjects\Git\trabalhoAED1\Main\bin\Debug\Main.exe
+C:\CharpProjects\Git\trabalhoAED1\Main\bin\Debug\Main.pdb
+C:\CharpProjects\Git\trabalhoAED1\Main\obj\Debug\Main.pdb

@@ -16,7 +16,18 @@ namespace Main
 		{
 			Pontos += 10;
 		}
-		public int getStrength{get;}
+		public int getStrength()
+		{
+			return strength;
+		}
+		public int getAgility()
+		{
+			return agility;
+		}
+		public int getIntelect()
+		{
+			return intelect;
+		}
 		public void addAtributo(string atributo, int num)
 		{
 			switch(atributo)
