@@ -10,6 +10,7 @@ namespace Main
 		int intelect;
 		int speed;
 		int armor;
+		int teste;
 		
 		public Atributos()
 		{
