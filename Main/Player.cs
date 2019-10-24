@@ -5,7 +5,7 @@ namespace Main
 	public class Player //Player.getClas
 	{
 		string name;
-		string race;
+		string race; 
 		string classe;
 		public Atributos status = new Atributos();
 		Inventory equips;
